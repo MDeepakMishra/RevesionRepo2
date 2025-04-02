@@ -12,10 +12,10 @@ class Prime {
         }
        }
        if( count == 2){
-        System.out.println("Pallindrom");
+        System.out.println("Prime number ");
        }
        else{
-        System.out.println(" Not A Pallindrom");
+        System.out.println(" Not A Prime number ");
        }
     }
  }
