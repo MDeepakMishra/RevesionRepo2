@@ -1,6 +1,6 @@
 public class String_Rev {
     public static void main(String[] args) {
-        String s = "Deepak Mishra";
+        String s = " hyy i am Deepak Mishra";
         String s1 ="";
         System.out.println("ORIGINAL STRING");
         System.out.println(s);
